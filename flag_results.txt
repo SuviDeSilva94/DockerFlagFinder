@@ -1,0 +1,156 @@
+Group No	Flag	
+nharrand/intsec-group-1:latest	No running container found
+nharrand/intsec-group-2:latest	No running container found
+nharrand/intsec-group-3:latest	No running container found
+noorabh/passoire_group4_hardened:v1	No running container found
+kivayuri/group5_phase2:v5	No running container found
+0x00a0/passoire_group06:latest	No running container found
+nharrand/intsec-group-7:latest	No running container found
+laldemar/group8_hardend:latest	No running container found
+nharrand/intsec-group-9:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is 6fa149cd60fb880d4c4dede1a2457c99f1aa4b00.
+	flag_2	1:flag_2 is a23bbc55c20bc96077adf40cb0e4a424584e1350.
+	flag_3	No matching content found
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', '$2y$10$8.JDGhoKggC8NcXEUosODeEoOuL0COHx6mgQ2ebC7SpxacjILVnrC'),
+	flag_7	1:flag_7 is ee20102bf73ec762d9384ec0e79b67734f1d0e9e.
+	flag_9	1:flag_9 is 0c5358286810453383b96b364970971ffabc1822.
+	flag_10	No matching content found
+	flag_13	No matching content found
+	flag_14	1:flag_14 is d12b7b2b23cef3762130ee5edba931ba8802a066.
+amanjuman/passoire:final	No running container found
+nharrand/intsec-group-11:latest	No running container found
+qdbjo/group_submission:latest	No running container found
+nharrand/intsec-group-14:latest	No running container found
+nharrand/intsec-group-20:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is d54e5716fdbdde032603df88bdcea25afb5a8705.
+	flag_2	1:flag_2 is d727509d3db26d044d46176a971ef4eccb73187c.
+	flag_3	1:flag_3 is 86e504dd34f1a3646ed7a91bfbedb64293b5f4fe.
+	flag_4	116:				flag_4 is 522a45db311d82f9e1e5ddc2cc943a9209688929.
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', 'eced94b9a0020efe4be3d1a69219dc1386ec1e5b'),
+	flag_7	1:flag_7 is 7f4be50eb36672c1dfc35cc48e537683e8c1f315.
+	flag_9	1:flag_9 is b5d770f3726547481569d44c09245aaffc424450.
+	flag_10	107:    res.send({ flag: "flag_10 is 7a8dcb6a81698869dc965156f9b4932a56dc46d8." });
+	flag_13	5:// flag_13 is 3c047caf0fbe5b84015e7d53934fbd80f97a7c2b.
+	flag_14	1:flag_14 is 1c4ec3d69b060595f8bcb94424c57ddf6fb302cc.
+nharrand/intsec-group-21:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is a2960de91bfd210ee79357a70ffccf431857209e.
+	flag_2	1:flag_2 is 3f83a88453734d675776cb2adb6c806bde420ee9.
+	flag_3	No matching content found
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', '909dba9203bd8ac91504f009ead0eb2b8e6f4787'),
+	flag_7	1:flag_7 is 6f8c1bcace73078d34ac00dbf44d23b67acaca2c.
+	flag_9	1:flag_9 is 0815e26fdffd52d74df917fd50606f7ccfdf27c5.
+	flag_10	141://     res.send({ flag: "flag_10 is 178716f797210bdf6a9245f088e59210c3141e5a." });
+	flag_13	5:// flag_13 is c0778554903158b4e0d429adeed15e912b0ecf38.
+	flag_14	1:flag_14 is 9c64412db62db2d987abc1688f87f4a0653f8130.
+heishi99/passoire:V3.2
+	flag_1	../home/passoire/crypto-helper/flag_1:1:flag_1 is 7f4b8260e4bd46fce45J76d9229e80319ce20db0
+	flag_1	../home/passoire/crypto-helper/flag_13:1:flag_13 is 7f4b8260e4bd46fce45h76d9229e80319ce20db0
+	flag_1	../home/passoire/crypto-helper/flag_11:1:flag_11 is 7f4b8260e4bd46fce45m76d9229e80319ce20db0
+	flag_1	../home/passoire/crypto-helper/flag_10:1:flag_10 is 7f4b8260e4bd46fce45B76d9229e80319ce20db0
+	flag_1	../home/passoire/crypto-helper/flag_14:1:flag_14 is 7f4b8260e4bd46fce45I76d9229e80319ce20db0
+	flag_1	../home/passoire/crypto-helper/flag_12:1:flag_12 is 7f4b8260e4bd46fce45R76d9229e80319ce20db0
+	flag_1	../home/passoire/web/flag_1:1:flag_1 is 158a794385a1bce8d50s6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/web/flag_13:1:flag_13 is 158a794385a1bce8d50U6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/web/flag_11:1:flag_11 is 158a794385a1bce8d50T6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/web/flag_10:1:flag_10 is 158a794385a1bce8d50V6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/web/flag_14:1:flag_14 is 158a794385a1bce8d50X6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/web/uploads/flag_1:1:flag_1 is 059af8fbdcca5c07dddN76e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/uploads/flag_13:1:flag_13 is 059af8fbdcca5c07dddY76e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/uploads/flag_11:1:flag_11 is 059af8fbdcca5c07ddd876e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/uploads/flag_10:1:flag_10 is 059af8fbdcca5c07ddd576e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/uploads/flag_14:1:flag_14 is 059af8fbdcca5c07dddq76e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/uploads/flag_12:1:flag_12 is 059af8fbdcca5c07dddZ76e1799268d9c5b8b76f
+	flag_1	../home/passoire/web/flag_12:1:flag_12 is 158a794385a1bce8d50R6c3ec5e6d9592ddfa8e7
+	flag_1	../home/passoire/flag_13:1:flag_13 is 49c5d463eb8b7dea5b2f84661b2bb08dad81e2e2
+	flag_1	../home/passoire/flag_11:1:flag_11 is 49c5d463eb8b7dea5b2O84661b2bb08dad81e2e2
+	flag_1	../home/passoire/flag_10:1:flag_10 is 49c5d463eb8b7dea5b2m84661b2bb08dad81e2e2
+	flag_1	../home/passoire/flag_14:1:flag_14 is 49c5d463eb8b7dea5b2I84661b2bb08dad81e2e2
+	flag_1	../home/passoire/flag_12:1:flag_12 is 49c5d463eb8b7dea5b2a84661b2bb08dad81e2e2
+	flag_1	../home/passoire/flag_1:1:flag_1 is 49c5d463eb8b7dea5b2484661b2bb08dad81e2e2.
+	flag_2	1:flag_2 is a46ddc1bbe1f923f864778a25a42f4191ceb2222.
+	flag_3	1:flag_3 is 158a794385a1bce8d5076c3ec5e6d9592ddfa8e7.
+	flag_4	116:				flag_4 is 4f16a76ffc7bb909a4b21c0406f572a2e3fc85b3.
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', '33815437965017f23803572d7b80005eef77f0b8'),
+	flag_7	1:flag_7 is 13823b9ce24c90d5f737ea6a86253c310a9ce97d.
+	flag_9	1:flag_9 is 7f4b8260e4bd46fce45076d9229e80319ce20db0.
+	flag_10	107:    res.send({ flag: "flag_10 is f4ed68b78262b7e647241593ddd9f83f231e26ef." });
+	flag_13	5:// flag_13 is 029a27bc75c39fc2960d3652359255396f653765.
+	flag_14	1:flag_14 is db9c58895a38f4a233818498f9bb3559041d5d5b.
+erangis/group24:3.0
+	flag_1	../home/passoire/flag_1:1:flag_1 is 47ea0196fd53864609b8b12ed24259bfb770b2b4.
+	flag_2	1:flag_2 is 13ea36b2efb42193f090fa451e4820350723746a.
+	flag_3	1:flag_3 is 2d031bc43bfb428f7ead6ea3e3b228f09229cb64.
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', 'bc14dc152e6e7a359dd5457a46a598715cb481d4'),
+	flag_7	No matching content found
+	flag_9	1:flag_9 is b02b9572d40a392b8fd2b3bd01011b63e67974a2.
+	flag_10	No matching content found
+	flag_13	8:$flag_13 = $config['security']['flag_13'];
+	flag_14	No matching content found
+nharrand/intsec-group-25:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is 2de3f70fc714ae0c97f50045ea619e530a58acd8.
+	flag_2	1:flag_2 is e5b38e590f8ca6459003a6c892af2fd1b99a1889.
+	flag_3	No matching content found
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', 'e313f814453b50147a0ae04f3a089fe2945e297f'),
+	flag_7	1:flag_7 is 23a92862ff11aaeafd6261734b3f20bcf2913a3d.
+	flag_9	1:flag_9 is 1b632ac6aefc2d3cee9e98f64b5058c98be9cc68.
+	flag_10	No matching content found
+	flag_13	5:// flag_13 is a0f6015a3d4008e1ffe783678254cf1152a861ec.
+	flag_14	No matching content found
+nharrand/intsec-group-27:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is 5d8a01b820ec9588df2b1d4610fa5cc316d31dbd.
+	flag_2	1:flag_2 is 76ca568cd586564f527ea1f61d1b98f5ba1afa77.
+	flag_3	1:flag_3 is 526c9ca39531aa7d3172395acaae1485024b39ea.
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', 'ce5117a9b918e890a0b0730ae4676844fffedb03'),
+	flag_7	1:flag_7 is cce58c3185981232ef77c7455edc3499b81ae141.
+	flag_9	1:flag_9 is 67a193f74a4413ff8b503c1b80815043a1ccda82.
+	flag_10	107:    res.send({ flag: "flag_10 is 0cf18812d44dc1031ddb0d0cf75a7b74b79b20c6." });
+	flag_13	12:$flag_13 = getenv('FLAG_13') ?: 'default_flag_value'; // Fallback for dev environments
+	flag_14	1:flag_14 is a4a2eb0f63ca6b7c0499843bfa972b963aa4e5be.
+hagendaz123/group28:finalv2
+	flag_1	../home/passoire/flag_1:1:flag_1 is 64b46b3338326237188967c3053edb6fe33d70e3.
+	flag_2	1:flag_2 is 039d40b27155531e4f49630479c7e30a203192a4.
+	flag_3	No matching content found
+	flag_4	No matching content found
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', '659530967b315a59f99fbe1c0ba6fea8a913396b'),
+	flag_7	1:flag_7 is fd4550a808995b1b4a395200800641146ba9787d.
+	flag_9	1:flag_9 is c7dd4dd1df702a9d9ed7c54ba8115f5303716c21.
+	flag_10	No matching content found
+	flag_13	5:// flag_13 is 144b647bd003c7ba0bbe64fad5bc02729a8890a6.
+	flag_14	No matching content found
+nharrand/intsec-group-30:latest
+	flag_1	../home/passoire/flag_1:1:flag_1 is 982cdd1d1fc8138066d8867e69b16cb85df0fdde.
+	flag_2	1:flag_2 is f49f3e0ae40519f7c8c6caebcd6b62e0a944d468.
+	flag_3	File not found
+	flag_4	121:            flag_4 is git gud scrub.
+	flag_5	174:(3, 'flag_5', 'see-password-hash@that-is-the-fl.ag', '1730fd6ba68bce091d8d2e15e32a362857e1b945'),
+	flag_7	1:flag_7 is de07d33147dee07692f24903a9fb32da70d708ba.
+	flag_9	1:flag_9 is 1fe0d7bfedf99de3e5a6685c13cac5274cc52277.
+	flag_10	No matching content found
+	flag_13	5:// flag_13 is 0215693bd7a8673508d2e0256189bb3cec74da9b.
+	flag_14	File not found
+intsecproject/passoire-final:v2	No running container found
+udeshim/group_32_intsec:final-tag	No running container found
+nharrand/intsec-group-33:latest	No running container found
+nharrand/intsec-group-34:latest	No running container found
+nharrand/intsec-group-35:latest	No running container found
+qtung/g36-passoire-0512-v4:latest	No running container found
+nharrand/intsec-group-38:latest	No running container found
+kentfre/group40_passoire:latest	No running container found
+jonybotto/passoire:final	No running container found
+toxillo/intsec_passoire:v1	No running container found
+nharrand/intsec-group-44:latest	No running container found
+ngwaru/group46:1.3.3	No running container found
+intsecgroup48/passoire-ready:latest	No running container found
+denny1024/is-grp50:v2.5.5	No running container found
+niu1028/sthlm-insec-ht2024-grp52:latest	No running container found
+nharrand/intsec-group-56:latest	No running container found
+balkongen/passoire-improved:latest	No running container found
+qlvin/grupp64:latest	No running container found
+nharrand/intsec-group-66:latest	No running container found
+helss/passoire:patch_17	No running container found
+victorlejon/intsec_defense:latest	No running container found
